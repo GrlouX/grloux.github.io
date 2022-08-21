@@ -1,0 +1,1 @@
+O gerador de senhas realmente aleatórias (GSRA) é baseado nos dados fornecidos pelo site [random.org](https://www.random.org/), criado por pesquisadores do **Trinity College Dublin** na Irlanda. Esses dados são coletados por processamento computacional de ondas de rádio oriundas de ruídos atmosféricos.
