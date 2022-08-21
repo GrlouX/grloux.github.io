@@ -2,6 +2,12 @@
 
 Página para publicação de projetos desenvolvidos por mim para web.
 
+Lista de projetos publicados na página:
+
+1) ![Uma breve análise da Mega-Sena](https://grloux.github.io/megasena/)
+
+2) ![Gerador de senhas realmente aleatórias](https://grloux.github.io/truerandompassgenerator/)
+
 ## Citação
 
 Parodiando meu xará ilustre da literatura, Graciliano Ramos, digo: "Só posso programar o que sou. E se os códigos se comportarem de modos diferentes, é porque não sou um só."
