@@ -4,9 +4,9 @@ Página para publicação de projetos desenvolvidos por mim para web.
 
 Lista de projetos publicados na página:
 
-1) ![Uma breve análise da Mega-Sena](https://grloux.github.io/megasena/)
+1) [Uma breve análise da Mega-Sena](https://grloux.github.io/megasena/)
 
-2) ![Gerador de senhas realmente aleatórias](https://grloux.github.io/truerandompassgenerator/)
+2) [Gerador de senhas realmente aleatórias](https://grloux.github.io/truerandompassgenerator/)
 
 ## Citação
 
