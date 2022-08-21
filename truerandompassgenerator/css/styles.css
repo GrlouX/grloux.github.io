@@ -1,0 +1,111 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    background:#B2A1C9;
+}
+
+a:hover{
+    text-decoration: none;
+    color:#000;
+}
+
+fieldset {
+    border: 0;
+    display: center;
+}
+
+input, select, textarea, button {
+    font-family: sans-serif;
+    font-size: 1em;
+}
+
+.group:before, .group:after {
+    content: " ";
+    display: table;
+}
+
+.group:after {
+    clear: both;
+}
+
+fieldset.group .bar {
+    width: 50%; 
+    margin: 0px auto;
+}
+
+.check-box {
+  width: 50%;
+  display: inline-block;
+  margin: auto;
+  height: 50%; 
+}
+
+.btn {
+    font-size: 1.5em;
+    background: #F90;
+    border: 0;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    color: #DEF;
+    padding: 0.2em 0.6em;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+}
+
+.btn:hover {
+    background: #DA3;
+    box-shadow: inset 2px 2px 2px rgba(0,0,0,0.2);
+    text-shadow: none;
+}
+
+.btn, select, label.checkbox {
+    cursor: pointer;
+}
+
+.global-page-container {
+  width: 100%;
+  display: inline-block;
+  margin: auto;
+  height: 100%;
+  text-align: center;
+ }
+
+.global-page-container img {
+  display: block;
+  max-width:128px;
+  max-height:128px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pass {
+  text-align: center;
+  color: #424143;
+  font-family: 'Lato', sans-serif;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+/* Para computadores */
+
+@media only screen and (min-width: 1441px) {
+   
+     .global-page-container {
+        width: 100%;
+    }
+
+}
+
+img {
+    position: absolute;
+    top: 75%;
+    left: 45%;
+    margin-left: -(X/2)px;
+    margin-top: -(Y/2)px;
+}
