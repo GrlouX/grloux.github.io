@@ -10,7 +10,7 @@ Lista de projetos publicados na página:
 
 ## Citação
 
-Parodiando meu xará ilustre da literatura, Graciliano Ramos, digo: "Só posso programar o que sou. E se os códigos se comportarem de modos diferentes, é porque não sou um só."
+Parodiando meu xará ilustre da literatura, Graciliano Ramos, afirmo: "Só posso programar o que sou. E se os códigos se comportarem de modos diferentes, é porque não sou um só."
 
 Estude, trabalhe, crie e, sobretudo, divirta-se porque a vida é um jogo inzerável!
 
