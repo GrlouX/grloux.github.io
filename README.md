@@ -8,7 +8,7 @@ Lista de projetos publicados na página:
 
 2) [Gerador de senhas realmente aleatórias](https://grloux.github.io/truerandompassgenerator/)
 
-3) [Batalha de Dados: Tema atual - Duelo Geek](https://grloux.github.io/databattle/)
+3) [Batalha de Dados: Tema atual - Copa do Mundo 2022](https://grloux.github.io/databattle/)
 
 ## Citação
 
