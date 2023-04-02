@@ -8,8 +8,6 @@ Lista de projetos publicados na página:
 
 2) [Gerador de senhas realmente aleatórias](https://grloux.github.io/truerandompassgenerator/)
 
-3) [Batalha de Dados: Tema atual - The Last of Us](https://grloux.github.io/databattle/)
-
 ## Citação
 
 Parodiando meu xará ilustre da literatura, Graciliano Ramos, declaro: "Só posso programar o que sou. E se os códigos se comportarem de modos diferentes, é porque não sou um só."
