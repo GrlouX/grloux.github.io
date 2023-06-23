@@ -9,6 +9,8 @@ Lista de projetos publicados na página:
 2) [Gerador de senhas realmente aleatórias](https://grloux.github.io/truerandompassgenerator/)
 
 3) [Batalha de Dados](https://grloux.github.io/databattle/)
+   
+4) [Queen Tribute](https://grloux.github.io/queentribute/)
 
 ## Citação
 
