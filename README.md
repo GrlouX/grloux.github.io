@@ -10,7 +10,7 @@ Lista de projetos publicados na página:
 
 3) [Batalha de Dados](https://grloux.github.io/databattle/)
    
-4) [Queen Tribute](https://grloux.github.io/queentribute/)
+4) [Tributo a Queen](https://grloux.github.io/queentribute/)
 
 ## Citação
 
