@@ -1,0 +1,1 @@
+Pasta para armazenar ícone e eventuais outras imagens da página de visualização.
