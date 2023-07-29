@@ -12,6 +12,8 @@ Lista de projetos publicados na página:
    
 4) [Tributo a Queen](https://grloux.github.io/queentribute/)
 
+5) [Análise de HQs: DC vs Marvel](https://grloux.github.io/dcmarvelcomics/)
+
 ## Citação
 
 Parodiando meu xará ilustre da literatura, Graciliano Ramos, declaro: "Só posso programar o que sou. E se os códigos se comportarem de modos diferentes, é porque não sou um só."
